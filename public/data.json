@@ -1,0 +1,362 @@
+[
+  {
+    "image": "../ProductImage/taskflow-512x512.png",
+    "title": "TaskFlow",
+    "companyName": "NextWave Labs",
+    "id": 1,
+    "description": "TaskFlow is your intelligent productivity companion designed to help you stay organized throughout the day. With smart reminders, real-time collaboration, and AI-generated suggestions, TaskFlow ensures that no task is ever forgotten. From personal to-do lists to team project boards, everything stays synced across all devices with a beautifully simple interface that keeps you focused and efficient.",
+    "size": 54,
+    "reviews": 1280,
+    "ratingAvg": 4.5,
+    "downloads": 68,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 210 },
+      { "name": "4 star", "count": 340 },
+      { "name": "5 star", "count": 560 }
+    ]
+  },
+  {
+    "image": "../ProductImage/ParseVerse.png",
+    "title": "PhotoVerse",
+    "companyName": "Snapify Studios",
+    "id": 2,
+    "description": "PhotoVerse brings professional-level editing tools to your fingertips. Whether you’re a photographer or casual user, you can enhance your pictures using intelligent filters, AI sky replacement, and advanced layer management. The app includes real-time previews, portrait enhancements, and creative effects that allow users to express their artistic vision with stunning detail and ease.",
+    "size": 82,
+    "reviews": 1890,
+    "ratingAvg": 4.7,
+    "downloads": 92,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 410 },
+      { "name": "5 star", "count": 1130 }
+    ]
+  },
+  {
+    "image": "../ProductImage/Fittrack.png",
+    "title": "FitTrack",
+    "companyName": "ActiveMotion Inc.",
+    "id": 3,
+    "description": "FitTrack empowers users to take control of their fitness goals with precision tracking. It records workouts, calories, steps, and sleep data, offering personalized recommendations based on your lifestyle. Integrated AI provides real-time insights on progress while offering custom workout plans that adapt to your schedule and fitness level.",
+    "size": 65,
+    "reviews": 990,
+    "ratingAvg": 4.3,
+    "downloads": 57,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 110 },
+      { "name": "3 star", "count": 170 },
+      { "name": "4 star", "count": 270 },
+      { "name": "5 star", "count": 360 }
+    ]
+  },
+  {
+    "image": "../ProductImage/eduverse.png",
+    "title": "EduVerse",
+    "companyName": "SmartLearn Co.",
+    "id": 4,
+    "description": "EduVerse revolutionizes online learning with interactive courses led by industry experts. Whether you’re upgrading skills or learning from scratch, the platform offers thousands of engaging lessons with hands-on projects and instant feedback. It’s designed for professionals, students, and lifelong learners to grow at their own pace with a personalized dashboard and community support.",
+    "size": 90,
+    "reviews": 2100,
+    "ratingAvg": 4.8,
+    "downloads": 105,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 460 },
+      { "name": "5 star", "count": 1310 }
+    ]
+  },
+  {
+    "image": "../ProductImage/noteSync.png",
+    "title": "NoteSync",
+    "companyName": "PixelNote Labs",
+    "id": 5,
+    "description": "NoteSync is the perfect note-taking solution for people who value simplicity and security. Every note is automatically synced to the cloud and encrypted, ensuring your information stays private. It supports images, drawings, and voice notes, making it ideal for both students and professionals looking for a clutter-free workspace.",
+    "size": 49,
+    "reviews": 850,
+    "ratingAvg": 4.4,
+    "downloads": 48,
+    "ratings": [
+      { "name": "1 star", "count": 45 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 315 }
+    ]
+  },
+  {
+    "image": "../ProductImage/mindeas.png",
+    "title": "MindEase",
+    "companyName": "Calmify Health",
+    "id": 6,
+    "description": "MindEase helps users reduce stress and improve focus through guided meditations, breathing exercises, and sleep sounds. With a clean, intuitive interface, it adapts sessions based on your mood and daily schedule. Users can also track mindfulness progress over time to build healthier, calmer habits naturally.",
+    "size": 70,
+    "reviews": 2700,
+    "ratingAvg": 4.9,
+    "downloads": 77,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 2020 }
+    ]
+  },
+  {
+    "image": "../ProductImage/travelMate.png",
+    "title": "TravelMate",
+    "companyName": "JetSet Apps",
+    "id": 7,
+    "description": "TravelMate simplifies trip planning by combining flight search, hotel booking, and itinerary management in one place. Explore travel guides, get destination recommendations, and receive real-time weather updates while on the go. The app also offers offline mode, so your travel information is always accessible, even without internet.",
+    "size": 95,
+    "reviews": 1340,
+    "ratingAvg": 4.6,
+    "downloads": 88,
+    "ratings": [
+      { "name": "1 star", "count": 65 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 190 },
+      { "name": "4 star", "count": 360 },
+      { "name": "5 star", "count": 605 }
+    ]
+  },
+  {
+    "image": "../ProductImage/shopMart.png",
+    "title": "ShopSmart",
+    "companyName": "Trendify Digital",
+    "id": 8,
+    "description": "ShopSmart is your AI-powered shopping assistant that helps you find the best deals and track price drops. It scans thousands of online stores, compares prices, and suggests budget-friendly alternatives. Users can also save items for later and get notifications when products go on sale.",
+    "size": 88,
+    "reviews": 2400,
+    "ratingAvg": 4.2,
+    "downloads": 95,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 950 }
+    ]
+  },
+  {
+    "image": "../ProductImage/soundWave.png",
+    "title": "SoundWave",
+    "companyName": "AudioSpace",
+    "id": 9,
+    "description": "SoundWave offers unlimited access to music, podcasts, and audiobooks from artists and creators around the world. Users can create custom playlists, enjoy offline listening, and explore new releases daily. With high-quality audio and adaptive streaming, it delivers an immersive listening experience.",
+    "size": 115,
+    "reviews": 4500,
+    "ratingAvg": 4.7,
+    "downloads": 120,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 240 },
+      { "name": "3 star", "count": 360 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 2820 }
+    ]
+  },
+  {
+    "image": "../ProductImage/NewsShow.png",
+    "title": "NewsNow",
+    "companyName": "InfoHub Media",
+    "id": 10,
+    "description": "NewsNow keeps you informed with personalized news feeds from reliable sources around the world. It covers breaking headlines, tech trends, sports, and entertainment updates in real-time. With its minimalist design and offline mode, it’s the perfect daily companion for staying informed without distractions.",
+    "size": 60,
+    "reviews": 1550,
+    "ratingAvg": 4.1,
+    "downloads": 59,
+    "ratings": [
+      { "name": "1 star", "count": 190 },
+      { "name": "2 star", "count": 220 },
+      { "name": "3 star", "count": 360 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 380 }
+    ]
+  },
+  {
+    "image": "../ProductImage/finTrack.png",
+    "title": "FinTrack",
+    "companyName": "SmartMoney Inc.",
+    "id": 11,
+    "description": "FinTrack allows you to take control of your finances with intuitive tracking tools and data-driven insights. It categorizes your expenses, helps set realistic budgets, and visualizes spending patterns through interactive charts. With built-in encryption and real-time alerts, it’s both secure and user-friendly for all financial management needs.",
+    "size": 72,
+    "reviews": 980,
+    "ratingAvg": 4.4,
+    "downloads": 65,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 270 },
+      { "name": "5 star", "count": 410 }
+    ]
+  },
+  {
+    "image": "../ProductImage/code campd.png",
+    "title": "CodeCamp",
+    "companyName": "DevEdge Academy",
+    "id": 12,
+    "description": "CodeCamp transforms learning to code into a hands-on experience. It provides structured lessons in JavaScript, Python, React, and more with live coding challenges, quizzes, and progress tracking. Learners can build real projects, participate in coding contests, and earn digital certificates recognized by leading tech companies.",
+    "size": 77,
+    "reviews": 1230,
+    "ratingAvg": 4.6,
+    "downloads": 81,
+    "ratings": [
+      { "name": "1 star", "count": 55 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 190 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 595 }
+    ]
+  },
+  {
+    "image": "../ProductImage/ChatLink.png",
+    "title": "ChatLink",
+    "companyName": "SocialSphere",
+    "id": 13,
+    "description": "ChatLink connects you with friends, family, and teams through seamless messaging, HD video calls, and file sharing. With built-in encryption and group chat features, communication is safe and effortless. Users can customize themes, use animated stickers, and even integrate productivity bots for work collaboration.",
+    "size": 110,
+    "reviews": 5000,
+    "ratingAvg": 4.8,
+    "downloads": 126,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 280 },
+      { "name": "3 star", "count": 420 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 3200 }
+    ]
+  },
+  {
+    "image": "../ProductImage/DocVault.png",
+    "title": "DocVault",
+    "companyName": "SafeData Systems",
+    "id": 14,
+    "description": "DocVault provides a secure cloud space to store, organize, and share all your important documents. With encrypted access and multi-device sync, you can carry your files anywhere. Its AI-powered tagging and OCR scanning feature makes searching for specific information faster and easier than ever.",
+    "size": 45,
+    "reviews": 720,
+    "ratingAvg": 4.3,
+    "downloads": 44,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 130 },
+      { "name": "4 star", "count": 220 },
+      { "name": "5 star", "count": 260 }
+    ]
+  },
+  {
+    "image": "../ProductImage/REcipe.png",
+    "title": "Recipeo",
+    "companyName": "Foodly Labs",
+    "id": 15,
+    "description": "Recipeo is a modern cooking assistant packed with over 10,000 recipes, meal planners, and nutritional insights. Users can search by ingredients, cuisine, or diet preferences. The smart grocery list and step-by-step cooking mode make it the ultimate kitchen companion for food lovers everywhere.",
+    "size": 83,
+    "reviews": 2600,
+    "ratingAvg": 4.7,
+    "downloads": 96,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 140 },
+      { "name": "3 star", "count": 210 },
+      { "name": "4 star", "count": 460 },
+      { "name": "5 star", "count": 1700 }
+    ]
+  },
+  {
+    "image": "../ProductImage/RideON.png",
+    "title": "RideOn",
+    "companyName": "UrbanMove",
+    "id": 16,
+    "description": "RideOn makes urban travel simpler with quick ride bookings, live driver tracking, and secure digital payments. Whether you need a taxi, bike, or carpool, the app connects you to verified drivers nearby. Its rewards system gives discounts for frequent travelers, making commuting both affordable and convenient.",
+    "size": 68,
+    "reviews": 1870,
+    "ratingAvg": 4.5,
+    "downloads": 72,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 160 },
+      { "name": "3 star", "count": 240 },
+      { "name": "4 star", "count": 420 },
+      { "name": "5 star", "count": 950 }
+    ]
+  },
+  {
+    "image": "../ProductImage/WEatherly.png",
+    "title": "Weatherly",
+    "companyName": "SkyVision Apps",
+    "id": 17,
+    "description": "Weatherly delivers hyper-local weather forecasts with real-time radar maps, air quality updates, and storm alerts. The elegant UI shows sunrise, humidity, and temperature trends in an easy-to-read format. Its widget support makes it simple to stay informed about changing conditions at a glance.",
+    "size": 58,
+    "reviews": 1200,
+    "ratingAvg": 4.3,
+    "downloads": 61,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 340 },
+      { "name": "5 star", "count": 500 }
+    ]
+  },
+  {
+    "image": "../ProductImage/ReadMore.png",
+    "title": "ReadMore",
+    "companyName": "BookVerse",
+    "id": 18,
+    "description": "ReadMore offers a massive collection of eBooks and audiobooks across all genres. Users can adjust reading modes, save bookmarks, and access personalized recommendations. The built-in reader supports night mode and progress syncing, making reading enjoyable on any device, anytime.",
+    "size": 100,
+    "reviews": 3100,
+    "ratingAvg": 4.6,
+    "downloads": 118,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 320 },
+      { "name": "4 star", "count": 740 },
+      { "name": "5 star", "count": 1770 }
+    ]
+  },
+  {
+    "image": "../ProductImage/Musicify.png",
+    "title": "Musicify",
+    "companyName": "MelodySoft",
+    "id": 19,
+    "description": "Musicify is a premium music streaming app that tailors playlists to your mood and activities. Discover trending songs, explore artists, and enjoy concert-like sound quality. Its intelligent recommendation engine keeps your music fresh, while offline mode lets you listen without limits.",
+    "size": 118,
+    "reviews": 5300,
+    "ratingAvg": 4.9,
+    "downloads": 140,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 210 },
+      { "name": "3 star", "count": 380 },
+      { "name": "4 star", "count": 820 },
+      { "name": "5 star", "count": 3740 }
+    ]
+  },
+  {
+    "image": "../ProductImage/HealthScan.png",
+    "title": "HealthScan",
+    "companyName": "MediTech Solutions",
+    "id": 20,
+    "description": "HealthScan combines AI diagnostics with daily health tracking to give users deeper insights into their well-being. It can analyze medical reports, track vitals through wearable integration, and provide preventive health recommendations. The app empowers users to take proactive steps toward a healthier lifestyle.",
+    "size": 92,
+    "reviews": 2280,
+    "ratingAvg": 4.7,
+    "downloads": 101,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 210 },
+      { "name": "4 star", "count": 480 },
+      { "name": "5 star", "count": 1420 }
+    ]
+  }
+]
