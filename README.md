@@ -1,53 +1,42 @@
-📱 App Browser – Search, Explore & Download Apps
+# 📱 App Browser – Search, Explore & Download Apps
+A modern web application for browsing apps, searching, filtering, and downloading installation files — built with **React 19**, **TailwindCSS 4**, and a fully responsive UI.
 
-A modern web application for browsing apps, searching, filtering, and downloading installation files — built with React 19, TailwindCSS 4, and a fully responsive UI.
+---
 
-🚀 Features
+## 🚀 Features
+- 🔍 **Advanced App Search**
+- 📥 **Direct App Download / Install Options**
+- 📄 **App Details Page (info, screenshots, metadata)**
+- ⚡ **Fast, Responsive UI with TailwindCSS**
+- 🔄 **Loading States using React Spinners**
+- 🔔 **Toast Notifications using React Toastify**
+- 📊 **Charts & Visualizations with Recharts**
+- 🌙 **Icon System with Lucide React**
+- 📡 **API Integration via Axios**
+- 🚦 **Smooth Navigation with React Router v7**
 
-🔍 Advanced App Search
+---
 
-📥 Direct App Download / Install Options
+## 🛠️ Tech Stack
 
-📄 App Details Page (info, screenshots, metadata)
+### **Frontend**
+- React 19
+- React Router 7
+- TailwindCSS 4
+- Vite + @tailwindcss/vite
 
-⚡ Fast, Responsive UI with TailwindCSS
+### **Utilities**
+- Axios
+- React Toastify
+- React Spinners
+- Recharts
+- Lucide React
 
-🔄 Loading States using React Spinners
+---
 
-🔔 Toast Notifications using React Toastify
+## 📦 Dependencies Used
 
-📊 Charts & Visualizations with Recharts
-
-🌙 Icon System with Lucide React
-
-📡 API Integration via Axios
-
-🚦 Smooth Navigation with React Router v7
-
-🛠️ Tech Stack
-Frontend
-
-React 19
-
-React Router 7
-
-TailwindCSS 4
-
-Vite + @tailwindcss/vite
-
-Utilities
-
-Axios
-
-React Toastify
-
-React Spinners
-
-Recharts
-
-Lucide React
-
-📦 Dependencies Used
+```json
 "dependencies": {
   "@tailwindcss/vite": "^4.1.14",
   "axios": "^1.12.2",
