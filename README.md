@@ -1,16 +1,62 @@
-# React + Vite
+📱 App Browser – Search, Explore & Download Apps
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern web application for browsing apps, searching, filtering, and downloading installation files — built with React 19, TailwindCSS 4, and a fully responsive UI.
 
-Currently, two official plugins are available:
+🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔍 Advanced App Search
 
-## React Compiler
+📥 Direct App Download / Install Options
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+📄 App Details Page (info, screenshots, metadata)
 
-## Expanding the ESLint configuration
+⚡ Fast, Responsive UI with TailwindCSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔄 Loading States using React Spinners
+
+🔔 Toast Notifications using React Toastify
+
+📊 Charts & Visualizations with Recharts
+
+🌙 Icon System with Lucide React
+
+📡 API Integration via Axios
+
+🚦 Smooth Navigation with React Router v7
+
+🛠️ Tech Stack
+Frontend
+
+React 19
+
+React Router 7
+
+TailwindCSS 4
+
+Vite + @tailwindcss/vite
+
+Utilities
+
+Axios
+
+React Toastify
+
+React Spinners
+
+Recharts
+
+Lucide React
+
+📦 Dependencies Used
+"dependencies": {
+  "@tailwindcss/vite": "^4.1.14",
+  "axios": "^1.12.2",
+  "lucide-react": "^0.545.0",
+  "react": "^19.1.1",
+  "react-dom": "^19.1.1",
+  "react-router": "^7.9.3",
+  "react-spinners": "^0.17.0",
+  "react-toastify": "^11.0.5",
+  "recharts": "^3.2.1",
+  "tailwindcss": "^4.1.14"
+}
