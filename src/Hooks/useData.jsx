@@ -11,7 +11,7 @@ const useData = () => {
     useEffect(() => {
       setLoading(true)
       setTimeout(async() => {
-        axios("/data.json")
+        axios("https://heroio.vercel.app/app")
           .then((data) => setAppData(data.data))
           .catch(err => setError(err))
       .finally(()=>setLoading(false))

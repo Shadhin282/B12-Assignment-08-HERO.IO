@@ -18,12 +18,12 @@ const router = createBrowserRouter([
         children: [
             {
                 index: true,
-                loader: ()=>fetch('/data.json').then(res=>res.json()).then(data=>data),
+                loader: ()=>fetch('https://heroio.vercel.app/app').then(res=>res.json()).then(data=>data),
                 Component: Home
             },
             {
                 path: '/home',
-                loader: ()=>fetch('/data.json').then(res=>res.json()).then(data=>data),
+                loader: ()=>fetch('https://heroio.vercel.app/app').then(res=>res.json()).then(data=>data),
                 Component: Home
             },
             {
@@ -33,13 +33,13 @@ const router = createBrowserRouter([
             },
             {
                 path: '/installation',
-                loader: ()=>fetch('/data.json').then(res=>res.json()).then(data=>data),
+                loader: ()=>fetch('https://heroio.vercel.app/app').then(res=>res.json()).then(data=>data),
                 Component: Installation
             },
             {
                 path: '/app-details/:id',
                  errorElement:<ErrorAppFinding></ErrorAppFinding>,
-                loader: ()=>fetch('/data.json').then(res=>res.json()).then(data=>data),
+                loader: ()=>fetch('https://heroio.vercel.app/app').then(res=>res.json()).then(data=>data),
                 Component: AppDetails,
                 
             },
